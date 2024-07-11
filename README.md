@@ -13,6 +13,7 @@
 - [Requisitos](#requisitos)
 
 ---
+# English
 
 ## Description (English)
 This repository contains the necessary resources for building a multi-agent artificial intelligence system for constructing articles and blogs using the CREWAI framework.
@@ -33,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-# LLM Research and Article
+# Português
 
 ## Descrição (Portugês)
 Este repositório contém os recursos necessários para construção de um sistema de múltiplos agentes de inteligência artificial para construção de artigos e blogs utilizando o framework CREWAI.
